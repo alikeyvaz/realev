@@ -1,0 +1,15 @@
+/Users/alikeyvaz/Projects/realev/realev/bin/Debug/net6.0/realev
+/Users/alikeyvaz/Projects/realev/realev/bin/Debug/net6.0/realev.deps.json
+/Users/alikeyvaz/Projects/realev/realev/bin/Debug/net6.0/realev.runtimeconfig.json
+/Users/alikeyvaz/Projects/realev/realev/bin/Debug/net6.0/realev.dll
+/Users/alikeyvaz/Projects/realev/realev/bin/Debug/net6.0/realev.pdb
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.csproj.AssemblyReference.cache
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.AssemblyInfoInputs.cache
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.AssemblyInfo.cs
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.csproj.CoreCompileInputs.cache
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.dll
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/refint/realev.dll
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.pdb
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/realev.genruntimeconfig.cache
+/Users/alikeyvaz/Projects/realev/realev/obj/Debug/net6.0/ref/realev.dll
